@@ -539,31 +539,36 @@ transition: 0.5s ;
   header {
     width: 320px;
     margin:0 auto;
-    height: 130px;
+    height: 140px;
     background: white;
     padding: 0px 0px;
-    box-sizing: border-box;
     }
 
 .span {
   line-height: 0px;
 }
     .header-logo p {
-      padding-top: 45px;
+      padding-top: 55px;
       line-height: 0px;
       font-size: 21px;
       letter-spacing: 0.25px;
       font-weight: 500;
       float:none;
       padding-bottom: 0px;
-    }
+      margin-bottom: 0px;
 
-.ul {
-  text-align: center;
-}
+    }
+      .header-logo span {
+        line-height: 0px;
+        float:none;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+      }
+
+
 
     .header-list {
-      padding-top:0px;
+      padding-top:11px;
       padding-bottom:50px;
       margin-left: auto;
       margin-right: auto;
@@ -599,7 +604,6 @@ transition: 0.5s ;
   width:320px;
   grid-template-columns: repeat(auto-fit,1fr);
   row-gap:23px;
-
   }
 
   .copyright {
