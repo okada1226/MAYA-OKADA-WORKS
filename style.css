@@ -35,7 +35,7 @@ body {
   padding-top:38px;
 }
 
-.contact, .biography, .works {
+.contact, .biography, .work {
     padding-top: 3.5px;
     font-size: 15px;
     color: #a9a9a9;
@@ -64,11 +64,11 @@ body {
   opacity: 0.35;
 }
 
-.works {
+.work {
   float:right;
 }
 
-.works:hover {
+.work:hover {
   opacity: 0.35;
 }
 
@@ -503,7 +503,7 @@ line-height: 5px;
 
     }
 
-    .contact, .biography, .works {
+    .contact, .biography, .work {
         padding-top: 3px;
         font-size: 17px;
         color: #a9a9a9;
