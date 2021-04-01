@@ -539,7 +539,7 @@ transition: 0.5s ;
   header {
     width: 320px;
     margin:0 auto;
-    height: 142px;
+    height: 150px;
     background: white;
     padding: 0px 0px;
     }
@@ -568,7 +568,7 @@ transition: 0.5s ;
 
 
     .header-list {
-      padding-top:25px;
+      padding-top:30px;
       padding-bottom:50px;
       margin-left: auto;
       margin-right: auto;
