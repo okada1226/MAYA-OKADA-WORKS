@@ -91,12 +91,20 @@ body {
 .item-title {
   font-size: 18px;
   letter-spacing: 1px;
+  line-height: 24px;
+
 }
+
+
+
 .item-info {
   font-size: 14px;
   letter-spacing: 1px;
   color: #808080;
 }
+
+
+
 
 .item1 {
   position: relative;
@@ -217,6 +225,8 @@ line-height: 6px;
 .item6:hover .item6-text {
   opacity:1;
 }
+
+
 
 .item7 {
   position: relative;
@@ -539,16 +549,16 @@ transition: 0.5s ;
   header {
     width: 320px;
     margin:0 auto;
-    height: 150px;
+    height: 110px;
     background: white;
     padding: 0px 0px;
     }
 
-.span {
+  .span {
   line-height: 0px;
-}
+  }
     .header-logo p {
-      padding-top: 55px;
+      padding-top: 35px;
       line-height: 0px;
       font-size: 21px;
       letter-spacing: 0.25px;
@@ -565,17 +575,12 @@ transition: 0.5s ;
         margin-bottom: 0px;
       }
 
-
-
     .header-list {
-      padding-top:28px;
+      padding-top:21px;
       padding-bottom:50px;
       margin-left: auto;
       margin-right: auto;
-      padding-left: 18px;
-
-
-
+      padding-left: 17px;
     }
 
     .contact, .biography, .work {
@@ -591,7 +596,6 @@ transition: 0.5s ;
       padding-right:10px;
       font-weight: 300;
     line-height: :0px;
-
     }
 
 .item img {
