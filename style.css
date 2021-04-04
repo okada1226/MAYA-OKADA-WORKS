@@ -94,30 +94,37 @@ body {
   letter-spacing: 1px;
 }
 
-.item-title6 {
+.item-title2 {
   font-size: 18px;
   letter-spacing: 1px;
 }
-.item-title6:first-line {
+.item-title2:first-line {
   line-height: 43px;
 }
 
-.item-title4 {
+.item-title5 {
   font-size: 18px;
   letter-spacing: 1px;
 }
-.item-title4:first-line {
+.item-title5:first-line {
   line-height: 43px;
 }
 
-.item-title13 {
+.item-title7 {
   font-size: 18px;
   letter-spacing: 1px;
 }
-.item-title13:first-line {
+.item-title7:first-line {
   line-height: 43px;
 }
 
+.item-title11 {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.item-title11:first-line {
+  line-height: 43px;
+}
 
 
 
