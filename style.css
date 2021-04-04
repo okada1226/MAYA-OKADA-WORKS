@@ -14,10 +14,10 @@ a {
 }
 
 .header-logo p {
-  padding-top: 36px;
+  padding-top: 32px;
   float:left;
   padding-left: 0px;
-  font-size: 19px;
+  font-size: 21px;
   letter-spacing: 2px;
   font-weight: 500;
 }
@@ -32,7 +32,7 @@ body {
 
 
 .header-list {
-  padding-top:38px;
+  padding-top:39px;
 }
 
 .contact, .biography, .work {
@@ -41,7 +41,8 @@ body {
     color: #a9a9a9;
     list-style: none;
     float: right;
-    font-weight: 400;
+    font-weight: 500;
+    letter-spacing: 0.5px;
     color: :#C0C0C0;
 }
 
