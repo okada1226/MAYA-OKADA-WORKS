@@ -91,13 +91,30 @@ body {
 .item-title {
   font-size: 18px;
   letter-spacing: 1px;
-  line-height: 24px;
+}
 
+.item-title6 {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.item-title6:first-line {
+  line-height: 43px;
+}
+
+.item-title13 {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.item-title13:first-line {
+  line-height: 43px;
 }
 
 
 
+
+
 .item-info {
+  padding-top: 4px;
   font-size: 14px;
   letter-spacing: 1px;
   color: #808080;
