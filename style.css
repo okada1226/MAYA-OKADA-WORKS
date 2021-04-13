@@ -22,6 +22,10 @@ a {
   font-weight: 500;
 }
 
+.br-sp {
+  display:none;
+}
+
 span {
   color: #a9a9a9;
 }
