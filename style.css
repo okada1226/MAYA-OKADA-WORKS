@@ -730,6 +730,7 @@ transition: 0.5s ;
   grid-template-columns: repeat(auto-fit,1fr);
   row-gap:23px;
   text-align: center;
+  margin:0;
 
   }
 
