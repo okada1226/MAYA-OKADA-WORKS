@@ -726,7 +726,7 @@ transition: 0.5s ;
 
 .grid {
   display: grid;
-  width:320px;
+  width:100%;
   grid-template-columns: repeat(auto-fit,1fr);
   row-gap:23px;
   text-align: center;
