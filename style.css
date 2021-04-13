@@ -729,6 +729,8 @@ transition: 0.5s ;
   width:320px;
   grid-template-columns: repeat(auto-fit,1fr);
   row-gap:23px;
+  text-align: center;
+
   }
 
   .copyright {
