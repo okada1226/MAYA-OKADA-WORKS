@@ -593,7 +593,7 @@ transition: 0.5s ;
   header {
     width: 320px;
     margin:0 auto;
-    height: 64px;
+    height: 68px;
     padding: 0px 0px;
     padding-bottoms:0;
     margin-bottoms:0;
@@ -729,6 +729,7 @@ transition: 0.5s ;
 }
 
 .grid {
+  padding-top:0;
   display: grid;
   width:100%;
   grid-template-columns: repeat(auto-fit,1fr);
