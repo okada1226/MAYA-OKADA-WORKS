@@ -33,7 +33,7 @@ span {
 }
 
 body {
-  font-family: "helvetica", "YuGothic";
+  font-family: "helvetica", "YuGothic", "sans-serif";
   position:  relative; 
   z-index: 0; 
 }
