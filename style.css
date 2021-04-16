@@ -746,7 +746,7 @@ transition: 0.5s ;
     width:315px;
     }
     .grid {
-      padding-top:20px;
+      padding-top:0px;
       display: grid;
       width:650px;
       gap:25px;
