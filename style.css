@@ -603,9 +603,9 @@ line-height: 5px;
   }
 }
 
-@media screen and (max-width: 726px){
+@media screen and (max-width: 767px){
   header {
-    width: 290px;
+    width: 300px;
     margin:0 auto;
     height: 85px;
     height: 87px;
@@ -651,7 +651,7 @@ line-height: 5px;
    .drawer-open {
      display: flex;
      float:right;
-     padding-top: 43px;
+     padding-top: 41px;
      height: 30px;
      width: 26px;
      justify-content: center;
@@ -718,7 +718,7 @@ line-height: 5px;
   padding-bottom: 40px;
 }
 .item img {
-width:290px;
+width:300px;
 transition: 0.5s ;
 }
 .grid {
